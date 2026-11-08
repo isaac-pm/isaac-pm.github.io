@@ -108,9 +108,9 @@
   <h3>Student Researcher & Teaching Assistant</h3>
   <p class="org">University of Luxembourg (UniLu)</p>
   <ul>
-    <li><strong>GPU Acceleration of Cost Function Networks</strong> — investigating GPU parallelisation of CFN solving.</li>
-    <li><strong>HPC Performance Characterization</strong> — developing a ReFrame-based framework to characterize hardware-specific partitions across HPC clusters, with teams in Luxembourg and Costa Rica.</li>
-    <li><strong>Automatic Micro Weather Stations</strong> — anomaly detection and data-quality analysis across a distributed meteorological sensor network in Costa Rica, with the University of Costa Rica.</li>
+    <li><strong>GPU Optimisation (main research focus)</strong> — investigating GPU parallelisation of Cost Function Network (CFN) solving.</li>
+    <li><strong>HPC Performance Characterisation</strong> — developing a ReFrame-based framework to characterise hardware-specific cluster partitions through queue-based measurements, with teams in Luxembourg and Costa Rica.</li>
+    <li><strong>AI for Environmental Monitoring</strong> — applying unsupervised learning to anomaly detection and data-quality analysis across a weather-station network in Costa Rica, with the University of Costa Rica.</li>
     <li><strong>Teaching Assistant, Parallel Computing</strong> — reviewing student solutions and providing in-class technical support.</li>
   </ul>
 </div>
@@ -176,6 +176,7 @@
 ## Publications
 
 <ul class="compact">
+  <li>“Public Emergency Alerts as Weak Labels for Weather Station Anomaly Detection: Evaluating an LSTM Autoencoder in Costa Rica,” <em>Preprints.org</em>, 2026. <a href="https://www.preprints.org/manuscript/202611.0226" target="_blank">[preprint]</a></li>
   <li>“Cross-Method Agreement in Unsupervised Anomaly Detection across a Distributed Meteorological Sensor Network in Costa Rica,” <em>IEEE BioInspired Processing</em>, 2026.</li>
 </ul>
 
@@ -192,5 +193,5 @@
 **Languages:** Spanish (native) · English (C1) · French (beginner)
 
 <small>
-Last updated: 2026-10-06
+Last updated: 2026-11-08
 </small>
